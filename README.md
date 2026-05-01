@@ -7,7 +7,7 @@
 
 ## 📊 Profile Overview
 📍 Based in Sargodha, Pakistan  
-💼 Full-Stack Developer with 5+ years of experience  
+💼 Full-Stack Developer with 3+ years of experience  
 🚀 Focused on scalable web, mobile, and AI-powered applications  
 🧠 Passionate about system design, performance optimization, and clean architecture  
 
