@@ -5,13 +5,18 @@
 
 ---
 
-## 📊 Profile Overview
-📍 Based in Sargodha, Pakistan  
-💼 Full-Stack Developer with 3+ years of experience  
-🚀 Focused on scalable web, mobile, and AI-powered applications  
-🧠 Passionate about system design, performance optimization, and clean architecture  
+
+## 💡 Quick Overview
+🌱 Currently exploring: AI Systems, Advanced Architecture Design, Cloud Deployment  
+💼 Working on: Scalable backend systems and mobile applications  
+🛠 Strong at: Debugging complex systems, API design, and performance optimization  
+🔧 Experience with: Real-time systems, microservices, and AI-based game logic  
+👨‍💻 Portfolio: https://portfolio-danigondal119-2936s-projects.vercel.app 
+📫 Contact: danigondal122@gmail.com  
+😄 Fun fact: I enjoy turning complex problems into simple, scalable solutions  
 
 ---
+
 
 ## 🚀 About Me
 I’m a Full-Stack Developer who enjoys building scalable, high-performance applications across web and mobile platforms.
@@ -20,16 +25,6 @@ I specialize in transforming ideas into production-ready systems using modern te
 
 ---
 
-## 💡 Quick Overview
-🌱 Currently exploring: AI Systems, Advanced Architecture Design, Cloud Deployment  
-💼 Working on: Scalable backend systems and mobile applications  
-🛠 Strong at: Debugging complex systems, API design, and performance optimization  
-🔧 Experience with: Real-time systems, microservices, and AI-based game logic  
-👨‍💻 Portfolio: Available upon request  
-📫 Contact: danigondal122@gmail.com  
-😄 Fun fact: I enjoy turning complex problems into simple, scalable solutions  
-
----
 
 ## 🤝 Collaboration & Development Style
 I work best in environments where I can improve, optimize, and scale systems.
