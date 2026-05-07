@@ -7,11 +7,11 @@
 
 
 ## 💡 Quick Overview
+👨‍💻 Portfolio: https://portfolio-danigondal119-2936s-projects.vercel.app 
 🌱 Currently exploring: AI Systems, Advanced Architecture Design, Cloud Deployment  
 💼 Working on: Scalable backend systems and mobile applications  
 🛠 Strong at: Debugging complex systems, API design, and performance optimization  
 🔧 Experience with: Real-time systems, microservices, and AI-based game logic  
-👨‍💻 Portfolio: https://portfolio-danigondal119-2936s-projects.vercel.app 
 📫 Contact: danigondal122@gmail.com  
 😄 Fun fact: I enjoy turning complex problems into simple, scalable solutions  
 
